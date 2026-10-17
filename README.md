@@ -1,10 +1,3 @@
-<!-- ============================================================ -->
-<!-- README do perfil do GitHub · Alessandra Brum                 -->
-<!-- Paleta do portfólio: #100E18 (fundo) · #493078 (violeta)     -->
-<!-- #B4A3FF (lilás) · todas as combinações passam no AAA (7:1)   -->
-<!-- Ordem: cabeçalho → versão em inglês → versão em português    -->
-<!-- ============================================================ -->
-
 <!-- INÍCIO CABEÇALHO -->
 
 <p align="center">
@@ -51,39 +44,3 @@ I break down existing interfaces, understand the logic behind them and translate
   <img alt="Deployment" src="https://img.shields.io/badge/Deployment-493078?style=flat-square&logo=vercel&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-493078?style=flat-square">
 </p>
-
-**Design & content**
-
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-493078?style=flat-square&logo=figma&logoColor=white">
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-493078?style=flat-square">
-  <img alt="Video editing" src="https://img.shields.io/badge/Video_editing-493078?style=flat-square">
-</p>
-
-**Languages**
-
-<p>
-  <img alt="Portuguese: native" src="https://img.shields.io/badge/Portuguese-native-493078?style=flat-square&labelColor=100E18">
-  <img alt="English: advanced" src="https://img.shields.io/badge/English-advanced-493078?style=flat-square&labelColor=100E18">
-  <img alt="German: intermediate" src="https://img.shields.io/badge/German-intermediate-493078?style=flat-square&labelColor=100E18">
-</p>
-<!-- FIM SKILLS (EN) -->
-
----
-
-<!-- INÍCIO EDUCATION (EN) -->
-## <img src="losango.svg" alt="" width="16" height="16"> education
-
-| program | institution | status |
-| --- | --- | --- |
-| Postgraduate Specialization in User Experience Design and Beyond | PUCRS | ▸ in progress |
-| Technologist Degree in Systems Analysis and Development | UNISUAM | ▸ in progress |
-| WAI0.1x: Introduction to Web Accessibility | W3Cx | ✓ completed |
-| Game Design | FIAP | ✓ completed |
-| Generative AI for Coding | FIAP | ✓ completed |
-
-<!-- FIM EDUCATION (EN) -->
-
-<!-- ############################################################ -->
-<!-- FIM VERSÃO EM INGLÊS                                          -->
-<!-- ############################################################ -->
