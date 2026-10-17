@@ -6,9 +6,11 @@
 <!-- width="280" é o tamanho original do fluxograma: as letras ficam com 16px, legíveis -->
 <img src="flow-interface-code.svg" align="right" width="280" alt="From interface to code, in six steps: 01 existing design, 02 structure, 03 implementation, 04 responsive design, 05 accessibility, 06 refinement.">
 
+UX-driven front-end developer. I study UX to build interfaces that are clearer, more accessible and more consistent.
+
 I understand the logic behind interfaces translating them into code, fine-tuning responsive behavior, interactions and the overall user experience. I treat **accessibility as part of the process, not as an afterthought or rework**, and my goal is to apply that principle to every line of code, building experiences that reach as many people as possible.
 
-<!-- Bloco de código no estilo do portfólio: equilibra a altura da coluna de texto com a do fluxograma -->
+
 ```python
 
 profile = {
