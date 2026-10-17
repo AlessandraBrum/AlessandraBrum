@@ -1,11 +1,7 @@
 <!-- INÍCIO CABEÇALHO -->
-
 <p align="center">
   <a href="https://alessandrabrum.vercel.app/"><img alt="Visit my portfolio / Visitar meu portfólio" src="https://img.shields.io/badge/portfolio-alessandrabrum.vercel.app-493078?style=for-the-badge&labelColor=100E18"></a>
-</p>
 
-<!-- INÍCIO ABOUT (EN) -->
-<p>
   <img alt="Focus: Front-end and UX Design" src="https://img.shields.io/badge/focus-Front--end_&_UX_Design-493078?style=for-the-badge&labelColor=100E18">
   <img alt="Priority: accessibility" src="https://img.shields.io/badge/priority-accessibility-493078?style=for-the-badge&labelColor=100E18">
 </p>
