@@ -16,9 +16,8 @@ I understand the logic behind interfaces translating them into code, fine-tuning
 profile = {
     "focus": "Front-end & UX Design",
     "expertise": "Implementation and refinement",
-    "priority": "Accessible, functional, aesthetic",
-    "languages": ["Portuguese", "English", "German"],
-}
+    "priority": "Accessible, functionality, aesthetic",
+    }
 ```
 
 <!-- Encerra as duas colunas: o que vier depois começa abaixo do fluxograma -->
