@@ -15,8 +15,8 @@ I break down existing interfaces, understand the logic behind them and translate
 
 ## <img src="losango.svg" alt="" width="16" height="16"> from interface to code
 
-<center>
-
+<div align="center">
 <!-- Animated image (plays once and stops). If "reduce motion" is enabled in the OS, it renders static -->
 <img src="flow-interface-code.svg" width="250px" alt="From interface to code, in six steps: 01 existing design, 02 structure, 03 implementation, 04 responsive design, 05 accessibility, 06 refinement.">
-</center><!-- FIM PROCESS (EN) -->
+</div>
+<!-- FIM PROCESS (EN) -->
