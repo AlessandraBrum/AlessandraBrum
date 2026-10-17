@@ -27,20 +27,3 @@ I break down existing interfaces, understand the logic behind them and translate
 <img src="flow-interface-code.svg" width="250px" alt="From interface to code, in six steps: 01 existing design, 02 structure, 03 implementation, 04 responsive design, 05 accessibility, 06 refinement.">
 <!-- FIM PROCESS (EN) -->
 
-
-
-<!-- INÍCIO SKILLS (EN) -->
-## <img src="losango.svg" alt="" width="16" height="16"> skills
-
-**Development**
-
-<p>
-  <img alt="Semantic HTML" src="https://img.shields.io/badge/Semantic_HTML-493078?style=flat-square&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-493078?style=flat-square&logo=css&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-493078?style=flat-square&logo=javascript&logoColor=white">
-  <img alt="Responsive design and media queries" src="https://img.shields.io/badge/Responsive_design_·_media_queries-493078?style=flat-square">
-  <img alt="Web accessibility, W3C standards" src="https://img.shields.io/badge/Web_accessibility_·_W3C_standards-493078?style=flat-square&logo=w3c&logoColor=white">
-  <img alt="Git and GitHub" src="https://img.shields.io/badge/Git_+_GitHub-493078?style=flat-square&logo=github&logoColor=white">
-  <img alt="Deployment" src="https://img.shields.io/badge/Deployment-493078?style=flat-square&logo=vercel&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-493078?style=flat-square">
-</p>
