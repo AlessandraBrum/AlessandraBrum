@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://alessandrabrum.vercel.app/"><img alt="Visit my portfolio / Visitar meu portfólio" src="https://img.shields.io/badge/portfolio-alessandrabrum.vercel.app-493078?style=for-the-badge&labelColor=100E18"></a><img alt="Focus: Front-end and UX Design" src="https://img.shields.io/badge/focus-Front--end_&_UX_Design-493078?style=for-the-badge&labelColor=100E18"><img alt="Priority: accessibility" src="https://img.shields.io/badge/priority-accessibility-493078?style=for-the-badge&labelColor=100E18">
+  <a href="https://alessandrabrum.vercel.app/" target="_blank"><img alt="Visit my portfolio / Visitar meu portfólio" src="https://img.shields.io/badge/portfolio-alessandrabrum.vercel.app-493078?style=for-the-badge&labelColor=100E18"></a><img alt="Focus: Front-end and UX Design" src="https://img.shields.io/badge/focus-Front--end_&_UX_Design-493078?style=for-the-badge&labelColor=100E18"><img alt="Priority: accessibility" src="https://img.shields.io/badge/priority-accessibility-493078?style=for-the-badge&labelColor=100E18">
 </p>
 
 <!-- INÍCIO DUAS COLUNAS: o fluxograma flutua à direita e o texto ocupa o espaço à esquerda -->
