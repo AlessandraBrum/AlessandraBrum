@@ -5,7 +5,7 @@
 <!-- INÍCIO SOBRE MIM -->
 <!-- O GitHub não aceita CSS nem media queries no README, mas aceita <picture>.
      O <source media="..."> troca a imagem conforme a largura da tela:
-     - a partir de 1012px (largura em que o GitHub mostra o perfil com a barra lateral): o fluxograma flutua à esquerda e o texto fica à direita (duas colunas);
+     - a partir de 1012px (largura em que o GitHub mostra o perfil com a barra lateral): o fluxograma flutua à direita e o texto fica à esquerda (duas colunas);
      - abaixo de 1012px: o fluxograma flutuante vira vazio.svg (0 × 0 px) e o texto ocupa
        a largura toda; o fluxograma aparece centralizado logo abaixo do texto.
      vazio.svg é uma imagem sem tamanho: só serve para "esconder" a outra versão. -->
@@ -15,7 +15,7 @@
      então a descrição é anunciada uma vez só. -->
 <picture>
   <source media="(max-width: 1011px)" srcset="vazio.svg">
-  <img src="flow-interface-code.svg" align="left" alt="From interface to code, in six steps: 01 existing design, 02 structure, 03 implementation, 04 responsive design, 05 accessibility, 06 refinement.">
+  <img src="flow-interface-code.svg" align="right" alt="From interface to code, in six steps: 01 existing design, 02 structure, 03 implementation, 04 responsive design, 05 accessibility, 06 refinement.">
 </picture>
 <!-- FIM FLUXOGRAMA DESKTOP -->
 
@@ -24,7 +24,7 @@ UX-driven front-end developer. I study UX to build interfaces that are clearer, 
 I understand the logic behind interfaces translating them into code, fine-tuning responsive behavior, interactions and the overall user experience. I treat **accessibility as part of the process, not as an afterthought or rework**, and my goal is to apply that principle to every line of code, building experiences that reach as many people as possible.
 
 <!-- Encerra as duas colunas: o que vier depois começa abaixo do fluxograma -->
-<br clear="left">
+<br clear="right">
 
 <!-- INÍCIO FLUXOGRAMA CELULAR (uma coluna) -->
 <!-- Aparece só abaixo de 1012px; no desktop vira vazio.svg. alt vazio para não repetir a descrição. -->
