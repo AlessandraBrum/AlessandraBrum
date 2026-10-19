@@ -24,13 +24,3 @@ I understand the logic behind interfaces translating them into code, fine-tuning
 </p>
 <!-- FIM FLUXOGRAMA CELULAR -->
 
-```python
-# about me
-
-profile = {
-    "focus": "Front-end & UX Design",
-    "expertise": "Implementation and refinement",
-    "priority": "Accessible, functionality, aesthetic",
-    }
-```
-
